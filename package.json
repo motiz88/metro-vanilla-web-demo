@@ -1,0 +1,16 @@
+{
+  "name": "metro-vanilla-web-demo",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "start": "metro serve"
+  },
+  "dependencies": {
+    "metro": "^0.71.1",
+    "metro-react-native-babel-transformer": "^0.71.1",
+    "metro-runtime": "^0.71.1",
+    "pretty-format": "^28.1.1"
+  },
+  "keywords": [],
+  "description": ""
+}
